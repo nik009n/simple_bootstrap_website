@@ -1,0 +1,1 @@
+This is a simple modern responsive website, made entirely using Bootstrap 5.
